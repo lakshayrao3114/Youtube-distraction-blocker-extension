@@ -1,5 +1,27 @@
 # YouTube Distraction Blocker
 
+
+
+
+
+
+
+
+
+
+
+https://github.com/lakshayrao3114/Youtube-distraction-blocker-extension/assets/97534058/8b307f10-2048-463d-9ec4-4bd7d5680672
+
+
+
+
+
+
+
+
+
+
+
 🚀 **Exciting News!** 🚀
 
 Introducing the **YouTube Distraction Blocker**, a browser extension designed to help you stay focused and eliminate distractions while using YouTube. Whether you're a working professional or a student, this tool ensures that you can focus solely on your tasks without getting sidetracked by unrelated content.
